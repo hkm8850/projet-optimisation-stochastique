@@ -22,7 +22,7 @@ L'objectif est d'étudier la mécanique de la convergence sur un problème compl
 ## 📂 Contenu 
 
 ```text
-├── projet_opti.ipynb   # Laboratoire de recherche avec code source matriciel et graphiques
+├── stochastic_optimization.ipynb # Laboratoire de recherche avec code source matriciel et graphiques
 └── README.md           # Documentation
 ```
 
